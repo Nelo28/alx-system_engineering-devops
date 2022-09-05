@@ -1,1 +1,1 @@
-script that creates a file conatining the text Bst School ending by a new line
+script that creates a file containing the text Best school ending by a new line
