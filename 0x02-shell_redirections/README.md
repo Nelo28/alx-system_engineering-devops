@@ -1,1 +1,1 @@
-Display lines containing the pattern root and then three lines after them
+Display all the lines in the file etc psswd that do not contain the pattern bin
