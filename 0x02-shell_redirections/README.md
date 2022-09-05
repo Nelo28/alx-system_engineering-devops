@@ -1,1 +1,1 @@
-script that takes a list of words as input and prints only words that appear exactly once
+Display files conatining the pattern root from the file
