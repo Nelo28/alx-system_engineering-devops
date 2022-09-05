@@ -1,1 +1,1 @@
-Script that creates file in Task 7
+Script that displays confused smiley
