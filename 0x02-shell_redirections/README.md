@@ -1,1 +1,1 @@
-script that writes into the file and the result of the command ls la
+script that displays the 10 newest files in the current directory
