@@ -1,1 +1,1 @@
-script that counts the number of directories and sub-directories in the current directory
+script that writes into the file and the result of the command ls la
